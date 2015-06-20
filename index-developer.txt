@@ -1,1 +1,2 @@
-developer - зміни через index editor, smartgit gui tool for git
+гілка developer - зміни через index editor, smartgit gui tool for git
+ 
