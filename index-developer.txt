@@ -1,2 +1,5 @@
 гілка developer - зміни через index editor, smartgit gui tool for git
- 
+
+конфлікт1 для gui tool - branch master
+
+конфлікт2 для gui tool - bganch master 
