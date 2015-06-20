@@ -1,1 +1,1 @@
-developer - зміни через index editor
+гілка developer - зміни через index editor
