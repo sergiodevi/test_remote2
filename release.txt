@@ -1,3 +1,5 @@
 release changes
 
-seconde changes in to relise
+seconde changes in to release
+
+fix bug
